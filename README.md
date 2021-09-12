@@ -6,3 +6,4 @@
  2. OneHotEncoding
  3. Hyperparameter Tuning & Evaluation
  4. Decision Tree Classifer
+![alt text](https://github.com/sandeep-raychaudhuri/Data-Science-Projects/blob/master/Train-Test%20AUC.PNG)
