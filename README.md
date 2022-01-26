@@ -1,4 +1,4 @@
-## Developer Portfolio Landing Page Template
+## Portfolio of Analytics and data Science Projects
 
 ### Introduction
 
