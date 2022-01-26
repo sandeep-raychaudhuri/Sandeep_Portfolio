@@ -1,4 +1,8 @@
-## Portfolio of Analytics and data Science Projects
+# Data Science Portfolio
+ 
+A repository of the projects I worked on or currently working on. It is updated regularly. The projects are written in Python (Jupyter Notebook). Click on the projects to see full analysis and code.
+
+Please contact me on [Linkedin](https://www.linkedin.com/in/sandeep-ray-chaudhuri-93a21142/) if you are looking to hire a data scientist.
 
 ### Introduction
 
@@ -7,13 +11,13 @@ Use this template if you need a quick developer / data science portfolio! Based 
 <img src="images/demo.gif?raw=true"/>
 
 
+<h1 align="center" style="background-color:Tomato;"> Projects in Machine Learning and NLP</h1>
+<p align="center">
+ 
+ ## Case Study: Predict Project Approval using Machine Learning and NLP (https://github.com/sandeep-raychaudhuri/Predict-Approval-of-Project-Proposals-on-DonorsChoose.git)
 
-# [Project 1: DonorsChoose.Org -Predict whether teachers' project proposals are accepted](https://github.com/sandeep-raychaudhuri/Predict-Approval-of-Project-Proposals-on-DonorsChoose.git)
-**Type of Machine Learning Problem**- Projects Approval can be classified into 2 categories Approved (label 1) and not approved (label 0). Hence this is a **binary class classification Problem**. Since one of the columns is a Text Data we will use Vectorization to convert them into numeric format
-**Performance Metric*** AUC Score,F1 Score,Confusion Matrix
- **Methods Used:**
- 1. Vectorization using TFIDF, TFIDF Word 2 Vector
- 2. OneHotEncoding
- 3. Hyperparameter Tuning & Evaluation
- 4. Decision Tree Classifer
+**Why:**  To determine the future value of a stock or a financial instrument traded (publicly) on an exchange to gain significant profit or avoid losses given efficient-market hypothesis. Although exact price prediction is nearly impossible, but approximaPrte price estimation is possible and can positively impact investor's buying strategy.<br><br>
+
+ **How:** Based on 5 year historical data from DonorsChoose.org using TFIDF &TFIDF Word 2 Vec to process Text data combining with Decision Tree Classifier to predict probability of a project proposal getting approved<br>
+ 
 ![alt text](https://github.com/sandeep-raychaudhuri/Data-Science-Projects/blob/master/Train-Test%20AUC.PNG)
