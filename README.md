@@ -4,7 +4,7 @@ A repository of the projects I worked on or currently working on. It is updated 
 
 Please contact me on [Linkedin](https://www.linkedin.com/in/sandeep-ray-chaudhuri-93a21142/) if you are looking to hire a data scientist.
 
-<h1 align="center" style="background-color:Tomato;"> Projects in Machine Learning and NLP</h1>
+<h1 align="center"> Projects in Machine Learning and NLP</h1>
 <p align="center">
  
  ## Case Study: Predict Project Approval using Machine Learning and NLP (https://github.com/sandeep-raychaudhuri/Predict-Approval-of-Project-Proposals-on-DonorsChoose.git)
