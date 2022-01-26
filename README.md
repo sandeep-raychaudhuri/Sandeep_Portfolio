@@ -8,7 +8,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/sandeep-ray-chaudhur
 <p align="center">
 </p>
 
-### [Case Study: Predict Project Approval using Machine Learning and NLP] (https://github.com/sandeep-raychaudhuri/Predict-Approval-of-Project-Proposals-on-DonorsChoose.git)
+### [Case Study: Predict Project Approval using Machine Learning and NLP](https://github.com/sandeep-raychaudhuri/Predict-Approval-of-Project-Proposals-on-DonorsChoose)
 
 **Why:**  To determine the future value of a stock or a financial instrument traded (publicly) on an exchange to gain significant profit or avoid losses given efficient-market hypothesis. Although exact price prediction is nearly impossible, but approximaPrte price estimation is possible and can positively impact investor's buying strategy.<br><br>
 
