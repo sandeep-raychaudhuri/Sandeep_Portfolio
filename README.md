@@ -1,5 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-### Sandeep Ray Chaudhuri Portfolio 
+### Sandeep Ray Chaudhuri Portfolio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 A repository of the projects I worked on or currently working on. The projects are written in Python (Jupyter Notebook). Click on the projects to see full analysis and code.
 
 Please contact me on [Linkedin](https://www.linkedin.com/in/sandeep-ray-chaudhuri-93a21142/) if you are looking to hire a data scientist.
