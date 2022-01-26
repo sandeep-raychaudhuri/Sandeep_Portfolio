@@ -1,15 +1,8 @@
-# Data Science Portfolio
+# Sandeep Ray Chaudhuri Portfolio
  
 A repository of the projects I worked on or currently working on. It is updated regularly. The projects are written in Python (Jupyter Notebook). Click on the projects to see full analysis and code.
 
 Please contact me on [Linkedin](https://www.linkedin.com/in/sandeep-ray-chaudhuri-93a21142/) if you are looking to hire a data scientist.
-
-### Introduction
-
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
-
-<img src="images/demo.gif?raw=true"/>
-
 
 <h1 align="center" style="background-color:Tomato;"> Projects in Machine Learning and NLP</h1>
 <p align="center">
